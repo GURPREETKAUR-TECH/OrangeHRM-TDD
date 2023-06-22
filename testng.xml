@@ -1,0 +1,9 @@
+<suite name="first framework">
+	<test name="TestN" allow-return-values="true">
+		<classes>
+			<class name="testPackage.Testclass" />
+		</classes>
+	</test>
+	
+
+</suite>
